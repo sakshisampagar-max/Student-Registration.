@@ -1,0 +1,9 @@
+{
+  "info": {
+    "_postman_id": "b7c9c9d0-1234-4abc-9abc-123456789abc",
+    "name": "Habit Tracker API",
+    "description": "API collection for Habit Tracker",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": []
+}
